@@ -3,7 +3,6 @@
 **`Desenvolvedor`**
 
 Me chamo Humberto Bandeira Costa, sou natural da Bahia. Atualmente, estou cursando Engenharia de Computação na UEFS. Sou apaixonado por tecnologia, futebol e pelo Vasco da Gama . Compartilho conquistas e desafios da minha trajetória como estudante de tecnologia no meu linkedin "[Humberto Bandeira](www.linkedin.com/in/humberto-bandeira-588a5821b)". Podem me seguir também no instagram "[Humberto Costa](https://www.instagram.com/1bertobc/)".
-
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; gap: 1.5rem; padding: 2rem 0;">
     <a href="https://www.instagram.com/1bertobc/" target="_blank" style="transform: scale(1.2); box-shadow: 0 4px 10px rgba(0,0,0,0.2); border-radius: 8px;">
         <img 
@@ -19,13 +18,6 @@ Me chamo Humberto Bandeira Costa, sou natural da Bahia. Atualmente, estou cursan
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005885"
         />
     </a>
-    <a href="mailto:bandeiracosta67@gmail.com" target="_blank" style="transform: scale(1.2); box-shadow: 0 4px 10px rgba(0,0,0,0.2); border-radius: 8px;">
-        <img 
-            alt="Gmail" 
-            title="Me envie um e-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/Gmail-E61B23?style=for-the-badge&logo=gmail&logoColor=white&labelColor=CC3C2F"
-        />
-    </a>
     <a href="https://github.com/hbCosta?tab=followers" target="_blank" style="transform: scale(1.2); box-shadow: 0 4px 10px rgba(0,0,0,0.2); border-radius: 8px;">
         <img 
             alt="Seguidores" 
@@ -34,6 +26,7 @@ Me chamo Humberto Bandeira Costa, sou natural da Bahia. Atualmente, estou cursan
         />
     </a>
 </div>
+
 
 ---
 
