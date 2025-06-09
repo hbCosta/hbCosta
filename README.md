@@ -107,7 +107,7 @@ Me chamo Humberto Bandeira Costa, sou natural da Bahia. Atualmente, estou cursan
     alt="GitHub Stats" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hbCosta&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
+    src="https://github-readme-stats.vercel.app/api?username=hbCosta&show_icons=true&theme=radical&locale=pt-br" />
           
 <img 
     align="left" 
