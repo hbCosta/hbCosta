@@ -1,8 +1,13 @@
 # 👨🏾‍💻 Humberto Costa
 
-**`Desenvolvedor`**
+**`Dev`**
 
-Me chamo Humberto Bandeira Costa, sou natural da Bahia. Atualmente, estou cursando Engenharia de Computação na UEFS. Sou apaixonado por tecnologia, futebol e pelo Vasco da Gama . Compartilho conquistas e desafios da minha trajetória como estudante de tecnologia no meu linkedin "[Humberto Bandeira](www.linkedin.com/in/humberto-bandeira-588a5821b)". Podem me seguir também no instagram "[Humberto Costa](https://www.instagram.com/1bertobc/)".
+Olá, me chamo Humberto Bandeira Costa, sou natural da Bahia. Atualmente, estou cursando Engenharia de Computação na UEFS. Sou apaixonado por tecnologia, futebol e pelo Vasco da Gama.
+
+---
+
+### 📱 Conecte-se Comigo
+
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; gap: 1.5rem; padding: 2rem 0;">
     <a href="https://www.instagram.com/1bertobc/" target="_blank" style="transform: scale(1.2); box-shadow: 0 4px 10px rgba(0,0,0,0.2); border-radius: 8px;">
         <img 
@@ -25,90 +30,95 @@ Me chamo Humberto Bandeira Costa, sou natural da Bahia. Atualmente, estou cursan
             src="https://custom-icon-badges.demolab.com/github/followers/hbCosta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="mailto:bandeiracosta67@gmail.com" target="_blank" style="transform: scale(1.2); box-shadow: 0 4px 10px rgba(0,0,0,0.2); border-radius: 8px;">
+        <img 
+            alt="Gmail" 
+            title="Envie um email" 
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"
+        />
+    </a>
 </div>
-
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <img 
+        alt="HTML"
+        title="HTML" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        alt="CSS" 
+        title="CSS"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        alt="React"
+        title="React" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+        alt="Node.js" 
+        title="Node.js"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img 
+        alt="MySQL" 
+        title="MySQL"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img 
+        alt="Git" 
+        title="Git"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        alt="Python" 
+        title="Python"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+        alt="C" 
+        title="C"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-          
+### 📊 Estatísticas do GitHub
 
-<br/>
-<br/>
-### 📊 Estatísticas
-<p>
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    align="left"
-    style="margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hbCosta&show_icons=true&theme=radical&locale=pt-br" 
-  />
-  <img 
-    alt="Linguagens" 
-    height="200" 
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbCosta&hide_progress=true&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=hbCosta&show_icons=true&theme=radical&locale=pt-br&hide_border=true" 
+    />
+    <img 
+        alt="Linguagens" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbCosta&hide_progress=true&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" 
+    />
+</div>
+
+
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=hbCosta&style=flat-square&color=blue" alt="Visualizações do perfil" />
+</div>
 
 
 
